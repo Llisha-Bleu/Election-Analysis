@@ -31,5 +31,5 @@ The analysis of the election show that:
   
 ## Challenge Overview
 
-## Chqllenge Summary
+## Challenge Summary
 
