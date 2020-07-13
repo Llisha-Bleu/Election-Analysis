@@ -17,31 +17,32 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 - Software: Python 3.7.3, Visual Code, 1.38.1
 
 ## Election Audit Results
-The analysis of the election show that:
-- There were `"369, 711"` votes cast in the election.
- - The candidates were:
-   - Charles Casper Stockham
-   - Diana DeGette
-   - Raymon Anthony Doane
+>The analysis of the election show that:
+>- There were `"369, 711"` votes cast in the election.
+> - The candidates were:
+>   - Charles Casper Stockham
+>   - Diana DeGette
+>   - Raymon Anthony Doane
   
--The candidate results were:
-  - Charles Casper Stockham recieved `"23.0%"` of the vote and `"85, 213"` number of votes
-  - Diana DeGette recieved `"73.8%"` of the vote and `"272, 892"` number of votes
-  - Raymon Anthony Doane recieved `"3.1%"` of the vote and `"11, 606"` number of votes
-  
-- The winner of the election was:
-  - Diana DeGette, who recieved `"73.8%"` of the vote and `"272, 892"` number of votes.
-The Election was conducted in three (3) counties. They are:
-- Jefferson County
-- Denver County
-- Arapahoe County
-All three countie combined had total of `369, 711` votes.
+>- The candidate results were:
+>  - Charles Casper Stockham recieved `"23.0%"` of the vote and `"85, 213"` number of votes
+>  - Diana DeGette recieved `"73.8%"` of the vote and `"272, 892"` number of votes
+>  - Raymon Anthony Doane recieved `"3.1%"` of the vote and `"11, 606"` number of votes
+>  
+>- The winner of the election was:
+>  - Diana DeGette, who recieved `"73.8%"` of the vote and `"272, 892"` number of votes.
 
-The county turnout results were:
-  - Jefferson County recieved `"10.5%"` of the vote and `"38, 855"` number of votes  
-  - Denver County recieved `"82.8%"` of the vote and `"306, 055"` number of votes
-  - Arapahoe County recieved `"6.7%"` of the vote and `"24, 801"` number of votes
-The county with the largest turnout is Denvefr with `306, 055` votes and `82.8%` total turnout. 
+>The Election was conducted in three (3) counties. They are:
+>- Jefferson County
+>- Denver County
+>- Arapahoe County
+>All three countie combined had total of `369, 711` votes.
+>
+>The county turnout results were:
+>  - Jefferson County recieved `"10.5%"` of the vote and `"38, 855"` number of votes  
+>  - Denver County recieved `"82.8%"` of the vote and `"306, 055"` number of votes
+>  - Arapahoe County recieved `"6.7%"` of the vote and `"24, 801"` number of votes
+>The county with the largest turnout is Denvefr with `306, 055` votes and `82.8%` total turnout. 
 
 >**Table showing Elections Results from Terminal:**
 >
