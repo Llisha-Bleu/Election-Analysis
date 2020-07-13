@@ -69,7 +69,7 @@ The purpose of this analysis is to provide additional data to complete the audit
 >- Denver County
 >- Arapahoe County
 >
->All three countie combined had total of `369, 711` votes.
+>All three counties combined had total of `369, 711` votes.
 >
 >**The county turnout results were:**
 >  - Jefferson County recieved `"10.5%"` of the vote and `"38, 855"` number of votes  
