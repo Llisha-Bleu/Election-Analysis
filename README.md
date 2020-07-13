@@ -41,15 +41,15 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 >- The winner of the election was:
 >   - Diana DeGette, who recieved `"73.8%"` of the vote and `"272, 892"` number of votes.
 
-> The code used to identify candidate name , votes and percentages were refactored to create a similar analysis, one that speaks specifically to the county turnout aspect. What that means is that the same methods used to identify the candidate outcomes are indeed the same used to analyze the county outcomes. The difference is that variables created here are repesentative of the county dataset. For example
+> The code used to identify candidate name , votes and percentages were refactored to create a similar analysis, one that speaks specifically to the county turnout aspect. What that means is that the same methods used to identify the candidate outcomes are indeed the same used to analyze the county outcomes. The difference is that variables created here are repesentative of the county dataset. For example:
 >
 >    `for county in county_votes:
->      # 6b: Initialize a variable to hold the county’s votes as they are retrieved from the county votes dictionary
->      votes_county = county_votes[county]
->      # 6c: Calculate the percent of total votes for the county
->      # 6d: Print the county results to the terminal.
->      county_results = (
->      f"{county}: {percent_county:.1f}% ({votes_county:,})\n")`
+>        # 6b: Initialize a variable to hold the county’s votes as they are retrieved from the county votes dictionary
+>        votes_county = county_votes[county]
+>         # 6c: Calculate the percent of total votes for the county
+>         # 6d: Print the county results to the terminal.
+>         county_results = (
+>           f"{county}: {percent_county:.1f}% ({votes_county:,})\n")`
 >
 >**The Election was conducted in three (3) counties. They are:**
 >- Jefferson County
@@ -58,7 +58,7 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 >
 >All three countie combined had total of `369, 711` votes.
 >
->The county turnout results were:
+>**The county turnout results were:**
 >  - Jefferson County recieved `"10.5%"` of the vote and `"38, 855"` number of votes  
 >  - Denver County recieved `"82.8%"` of the vote and `"306, 055"` number of votes
 >  - Arapahoe County recieved `"6.7%"` of the vote and `"24, 801"` number of votes
