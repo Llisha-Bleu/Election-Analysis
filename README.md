@@ -1,8 +1,5 @@
 # Election-Analysis
 
-## Purpose
-The purpose of this analysis is to provide additional data to complete the audit of the local congressional election.
-
 ## Project Overview
 A Colorado Board of Elections employee has provided the following tasks to complete the election audit of a recent local congressional election. They are:
 
@@ -11,6 +8,9 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 3. Calculate the percentage of votes each candidates won
 4. Calculate the total number of votes each candidate won
 5. Determine the winner of the election based on popular vote
+
+## Purpose
+The purpose of this analysis is to provide additional data to complete the audit of the local congressional election.
 
 ## Resources
 - **Data Source:** election_results.csv
