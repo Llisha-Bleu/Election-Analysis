@@ -52,7 +52,7 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 >        county_results = (
 >            f"{county}: {percent_county:.1f}% ({votes_county:,})\n")
 >        print(county_results, end="")`
-
+>
 >The Election was conducted in three (3) counties. They are:
 >- Jefferson County
 >- Denver County
