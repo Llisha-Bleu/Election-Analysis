@@ -82,7 +82,7 @@ The purpose of this analysis is to provide additional data to complete the audit
 >![election_results](./Resources/election_results.png)
   
 ## Election Audit Summary
->With some modification this script can be used to retrieve a deeper analysis on the demographics of the each coumty, and like wise to get a glimpse of the candidates supporters. Script can be used to find out whether we have a larger turnout of younger or older population, the gender, race etc. These are key and important metrics, that can be made available in a matter of seconds. This can be done, by swapping out and or creating new variable names such as county and or county names. 
+>With some modification this script can be used to retrieve a deeper analysis on the demographics of the each county, and like wise to get a glimpse of the candidates supporters. Script can be used to find out whether we have a larger turnout of younger or older population, the gender, race etc. These are key and important metrics, that can be made available in a matter of seconds by refactoring this script. This can be done, by swapping out and or creating new variable names such as county and or county names. 
 >
 >The same script can be also used for other elections to determine the prefered method or most used method of voting, providing that the data is available.
 
