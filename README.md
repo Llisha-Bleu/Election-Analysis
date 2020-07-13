@@ -27,11 +27,11 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 >            f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")`
 >
 >The analysis of the election show that:
->- There were `"369, 711"` votes cast in the election.
-> - The candidates were:
->   - Charles Casper Stockham
->   - Diana DeGette
->   - Raymon Anthony Doane
+> - There were `"369, 711"` votes cast in the election.
+>   - The candidates were:
+>     - Charles Casper Stockham
+>     - Diana DeGette
+>     - Raymon Anthony Doane
 >            
 >- The candidate results were:
 >  - Charles Casper Stockham recieved `"23.0%"` of the vote and `"85, 213"` number of votes
