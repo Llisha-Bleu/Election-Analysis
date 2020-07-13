@@ -17,6 +17,7 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 - **Software:** Python 3.7.3, Visual Code, 1.47
 
 ## Election Audit Results
+### Candidate Audit Results
 >  To retrieve the votes and percentages for each candidate, a `for loop` was used to iterate through the list of `candidate_options =[]` to get identify the candidate options. Said `for loop` variable was used to retrieve the votes of the different candidates from the dictionary `candidate_votes = {}`. The percentage of the vote `vote_percentage` was then calculated, for this the variable `votes` and `total_votes` was converted to a floating decimal numbers. The following code was used to retrieve vote count and percentage for each candidate:
 >
 >        `for candidate_name in candidate_votes:
@@ -41,6 +42,7 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 >- The winner of the election was:
 >   - Diana DeGette, who recieved `"73.8%"` of the vote and `"272, 892"` number of votes.
 
+### County Audit Results
 > The code used to identify candidate name , votes and percentages were refactored to create a similar analysis, one that speaks specifically to the county turnout aspect. What that means is that the same methods used to identify the candidate outcomes are indeed the same used to analyze the county outcomes. The difference is that variables created here are repesentative of the county dataset. For example:
 >
 >       `for county in county_votes:
