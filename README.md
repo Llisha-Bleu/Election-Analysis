@@ -17,12 +17,15 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 - **Software:** Python 3.7.3, Visual Code, 1.47
 
 ## Election Audit Results
->  To retrieve the votes and percentages for each candidate, a `for loop` was used to iterate through the list of `(candidate_options =[])` to get identify the candidate options. Said `for loop` variable was used to retrieve the votes of the different candidates from the dictionary `(candidate_votes = {}`. The percentage of the vote was then calculated, for this the variable `votes` and `total_votes` was converted to a floating decimal numbers. The following code was used to retrieve vote count and percentage for each candiadte:
->        `# Retrieve vote count and percentage
+>  To retrieve the votes and percentages for each candidate, a `for loop` was used to iterate through the list of `(candidate_options =[])` to get identify the candidate options. Said `for loop` variable was used to retrieve the votes of the different candidates from the dictionary `(candidate_votes = {})`. The percentage of the vote was then calculated, for this the variable `votes` and `total_votes` was converted to a floating decimal numbers. The following code was used to retrieve vote count and percentage for each candidate:
+>
+>        `for candidate_name in candidate_votes:
+>        # Retrieve vote count and percentage
 >        votes = candidate_votes.get(candidate_name)
 >        vote_percentage = float(votes) / float(total_votes) * 100
 >        candidate_results = (
 >            f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")`
+>
 >The analysis of the election show that:
 >- There were `"369, 711"` votes cast in the election.
 > - The candidates were:
