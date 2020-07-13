@@ -19,6 +19,7 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 ## Election Audit Results
 ### Candidate Audit Results
 > To begin the analysis, the total number of votes cast needed to be determined. This was done by first initializing the variable `total_votes` to zero (0), which will increment by 1 as it read each row in the `for loop`. The code used to increment said variable by one(1) is `total_votes +=1`.
+>
 >  To retrieve the votes and percentages for each candidate, a `for loop` was used to iterate through the list of `candidate_options =[]` to get identify the candidate options. Said `for loop` variable was used to retrieve the votes of the different candidates from the dictionary `candidate_votes = {}`. The percentage of the vote `vote_percentage` was then calculated, for this the variable `votes` and `total_votes` was converted to a floating decimal numbers. The following code was used to retrieve vote count and percentage for each candidate:
 >
 >        `for candidate_name in candidate_votes:
