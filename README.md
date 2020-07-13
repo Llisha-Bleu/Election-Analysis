@@ -14,7 +14,7 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 
 ## Resources
 - **Data Source:** election_results.csv
-- **Software:** Python 3.7.3, Visual Code, 1.38.1
+- **Software:** Python 3.7.3, Visual Code, 1.47
 
 ## Election Audit Results
 >The analysis of the election show that:
