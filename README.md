@@ -9,6 +9,8 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 4. Calculate the total number of votes each candidate won
 5. Determine the winner of the election based on popular vote
 
+Working with the `election_results.csv` dataset, `for` loops and conditional statements with membership and logical operators will be used to find the requested results. The results will be printed to the command line and saved to file `election_results.txt`.
+
 ## Purpose
 The purpose of this analysis is to provide additional data to complete the audit of the local congressional election.
 
