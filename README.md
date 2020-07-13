@@ -31,12 +31,14 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 >
 > To determine the winning candidate by the number and percentages of votes, the same `for loop` that was used to iterate through the `candidate_options` list. An `if` satement was used to check if the first vote count for a candidate is greater than zer (0). If the statement was detremined to be true, then that vote count would be be equal to the "winning count." At the same time, the candidate percentage of vote equal to the winning percentage." is set. Finally, frfom the `candidate_options` list the "winning candidate" can be set.
 >
+>
 >    `winning_candidate_summary = (
 >        f"-------------------------\n"
 >        f"Winner: {winning_candidate}\n"
 >        f"Winning Vote Count: {winning_count:,}\n"
 >        f"Winning Percentage: {winning_percentage:.1f}%\n"
 >        f"-------------------------\n")`
+>
 >
 >**The analysis of the election show that:**
 > - There were `"369, 711"` votes cast in the election.
