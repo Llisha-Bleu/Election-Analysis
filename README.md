@@ -23,7 +23,14 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 >   - Charles Casper Stockham
 >   - Diana DeGette
 >   - Raymon Anthony Doane
->  
+
+>  The following code was used to retrieve vote count and percentage for each candiadte:
+>        `# Retrieve vote count and percentage
+>        votes = candidate_votes.get(candidate_name)
+>        vote_percentage = float(votes) / float(total_votes) * 100
+>        candidate_results = (
+>            f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")`
+            
 >- The candidate results were:
 >  - Charles Casper Stockham recieved `"23.0%"` of the vote and `"85, 213"` number of votes
 >  - Diana DeGette recieved `"73.8%"` of the vote and `"272, 892"` number of votes
