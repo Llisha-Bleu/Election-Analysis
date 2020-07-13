@@ -44,13 +44,12 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 > The code used to identify candidate name , votes and percentages were refactored to create a similar analysis, one that speaks specifically to the county turnout aspect. What that means is that the same methods used to identify the candidate outcomes are indeed the same used to analyze the county outcomes. The difference is that variables created here are repesentative of the county dataset. For example
 >
 >    `for county in county_votes:
->     # 6b: Initialize a variable to hold the county’s votes as they are retrieved from the county votes dictionary.
->     votes_county = county_votes[county]
->     # 6c: Calculate the percent of total votes for the county.
->     percent_county = float(votes_county) / float(total_votes) * 100
->     # 6d: Print the county results to the terminal.
->     county_results = (
->     f"{county}: {percent_county:.1f}% ({votes_county:,})\n")`
+>      # 6b: Initialize a variable to hold the county’s votes as they are retrieved from the county votes dictionary.
+>      votes_county = county_votes[county]
+>      # 6c: Calculate the percent of total votes for the county.
+>      # 6d: Print the county results to the terminal.
+>      county_results = (
+>      f"{county}: {percent_county:.1f}% ({votes_county:,})\n")`
 >
 >The Election was conducted in three (3) counties. They are:
 >- Jefferson County
