@@ -23,7 +23,7 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 >   - Charles Casper Stockham
 >   - Diana DeGette
 >   - Raymon Anthony Doane
-  
+>  
 >- The candidate results were:
 >  - Charles Casper Stockham recieved `"23.0%"` of the vote and `"85, 213"` number of votes
 >  - Diana DeGette recieved `"73.8%"` of the vote and `"272, 892"` number of votes
