@@ -31,7 +31,7 @@ The purpose of this analysis is to provide additional data to complete the audit
 >        candidate_results = (
 >            f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")`
 >
-> To determine the winning candidate by the number and percentages of votes, the same `for loop` that was used to iterate through the `candidate_options` list. An `if` satement was used to check if the first vote count for a candidate is greater than zer (0). If the statement was detremined to be true, then that vote count would be be equal to the "winning count." At the same time, the candidate percentage of vote equal to the winning percentage." is set. Finally, from the `candidate_options` list the "winning candidate" can be set. See example of code below.
+> To determine the winning candidate by the number and percentages of votes, the same `for loop` that was used to iterate through the `candidate_options` list. An `if` satement was used to check if the first vote count for a candidate is greater than zer0 (0). If the statement was detremined to be true, then that vote count would be be equal to the "winning count." At the same time, the candidate percentage of vote equal to the winning percentage." is set. Finally, from the `candidate_options` list the "winning candidate" can be set. See example of code below.
 >
 >      `if (votes > winning_count) and (vote_percentage > winning_percentage):
 >            winning_count = votes
