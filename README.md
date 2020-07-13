@@ -54,7 +54,7 @@ The purpose of this analysis is to provide additional data to complete the audit
 >   - Diana DeGette, who recieved `"73.8%"` of the vote and `"272, 892"` number of votes.
 
 ### County Audit Results
-> The code used to identify candidate name , votes and percentages were refactored to create a similar analysis, one that speaks specifically to the county turnout aspect. What that means is that the same methods used to identify the candidate outcomes are indeed the same used to analyze the county outcomes. The difference is that variables created here are repesentative of the county dataset. For example:
+> The codes used to identify total votes, winning candidate, candidate name , votes and percentages were refactored to create a similar analysis, one that speaks specifically to the county turnout aspect. What that means is that the same methods used to identify the candidate outcomes are indeed the same used to analyze the county outcomes. The difference is that variables created here are repesentative of the county dataset. For example:
 >
 >       `for county in county_votes:
 >        # 6b: Initialize a variable to hold the county’s votes as they are retrieved from the county votes dictionary
