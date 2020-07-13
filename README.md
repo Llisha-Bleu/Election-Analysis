@@ -45,7 +45,7 @@ The county with the largest turnout is Denvefr with `306, 055` votes and `82.8%`
 
 >**Table showing Elections Results from Terminal:**
 >
->![election_results](./Resources/election_results.PNG)
+>![election_results](./Resources/election_results.png)
   
 ## Election Audit Summary
 >With some modification this script can be used to retrieve a deeper analysis on the demographics of the each coumty, and like wise to get a glimpse of the candidates supporters. Script can be used to find out whether we have a larger turnout of younger or older population, the gender, race etc. These are key and important metrics, that can be made available in a matter of seconds. This can be done, by swapping out and or creating new variable names such as county and or county names. 
