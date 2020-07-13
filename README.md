@@ -29,7 +29,7 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 >        candidate_results = (
 >            f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")`
 >
-> To determine the winning candidate by the number and percentages of votes, the same `for loop` that was used to iterate through the `candidate_options` list. An `if` satement was used to check if the first vote count for a candidate is greater than zer (0). If the statement was detremined to be true, then that vote count would be be equal to the "winning count." At the same time, the candidate percentage of vote equal to the winning percentage." is set. Finally, frfom the `candidate_options` list the "winning candidate" can be set.
+> To determine the winning candidate by the number and percentages of votes, the same `for loop` that was used to iterate through the `candidate_options` list. An `if` satement was used to check if the first vote count for a candidate is greater than zer (0). If the statement was detremined to be true, then that vote count would be be equal to the "winning count." At the same time, the candidate percentage of vote equal to the winning percentage." is set. Finally, frfom the `candidate_options` list the "winning candidate" can be set. See example of code below.
 >
 >      `winning_candidate_summary = (
 >        f"-------------------------\n"
