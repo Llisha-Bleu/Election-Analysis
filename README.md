@@ -66,7 +66,7 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 >  - Jefferson County recieved `"10.5%"` of the vote and `"38, 855"` number of votes  
 >  - Denver County recieved `"82.8%"` of the vote and `"306, 055"` number of votes
 >  - Arapahoe County recieved `"6.7%"` of the vote and `"24, 801"` number of votes
->The county with the largest turnout is Denvefr with `306, 055` votes and `82.8%` total turnout. 
+>The county with the largest turnout is Denver with `306, 055` votes and `82.8%` total turnout. 
 
 >**Table showing Elections Results from Terminal:**
 >
